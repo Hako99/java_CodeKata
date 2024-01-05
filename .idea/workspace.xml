@@ -4,24 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c56d4329-b1ef-44f3-a2ef-69905e3bb3b3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_CodeKata.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/a240105/a01/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/a240105/a02/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/a240105/a03/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/a240105/a04/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/a240105/a05/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/a240105/a06/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/a240105/a07/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/a240105/a08/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/a240105/a09/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/a240105/a10/Main.java" afterDir="false" />
+    <list default="true" id="c56d4329-b1ef-44f3-a2ef-69905e3bb3b3" name="Changes" comment="코드카타">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,9 +22,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 2
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="2aWlYJ6mtuSVKtg8L8tNYLQYDvA" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -49,21 +33,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Main.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "onboarding.tips.debug.path": "D:/study/Java/Study/java_CodeKata/java_CodeKata/src/Main.java"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;D:/study/Java/Study/java_CodeKata/java_CodeKata/src/Main.java&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\study\Java\Study\java_CodeKata\java_CodeKata\src\a0001\a01" />
     </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-17.0.9-corretto-17.0.9-f644763e9732-ebaef533" />
+      </set>
+    </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -74,6 +65,109 @@
       <option name="presentableId" value="Default" />
       <updated>1704442261434</updated>
     </task>
+    <task id="LOCAL-00001" summary="1번문제">
+      <option name="closed" value="true" />
+      <created>1704444691487</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1704444691487</updated>
+    </task>
+    <task id="LOCAL-00002" summary="2번문제">
+      <option name="closed" value="true" />
+      <created>1704444707035</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1704444707036</updated>
+    </task>
+    <task id="LOCAL-00003" summary="3번문제">
+      <option name="closed" value="true" />
+      <created>1704444713915</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1704444713915</updated>
+    </task>
+    <task id="LOCAL-00004" summary="4번문제">
+      <option name="closed" value="true" />
+      <created>1704444717913</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1704444717913</updated>
+    </task>
+    <task id="LOCAL-00005" summary="5번문제">
+      <option name="closed" value="true" />
+      <created>1704444723733</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1704444723733</updated>
+    </task>
+    <task id="LOCAL-00006" summary="6번문제">
+      <option name="closed" value="true" />
+      <created>1704444733067</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1704444733067</updated>
+    </task>
+    <task id="LOCAL-00007" summary="7번문제">
+      <option name="closed" value="true" />
+      <created>1704444736921</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1704444736921</updated>
+    </task>
+    <task id="LOCAL-00008" summary="8번문제">
+      <option name="closed" value="true" />
+      <created>1704444740094</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1704444740094</updated>
+    </task>
+    <task id="LOCAL-00009" summary="9번문제">
+      <option name="closed" value="true" />
+      <created>1704444743303</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1704444743303</updated>
+    </task>
+    <task id="LOCAL-00010" summary="10번문제">
+      <option name="closed" value="true" />
+      <created>1704444747830</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1704444747830</updated>
+    </task>
+    <task id="LOCAL-00011" summary="코드카타">
+      <option name="closed" value="true" />
+      <created>1704444774091</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1704444774091</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="1번문제" />
+    <MESSAGE value="2번문제" />
+    <MESSAGE value="3번문제" />
+    <MESSAGE value="4번문제" />
+    <MESSAGE value="5번문제" />
+    <MESSAGE value="6번문제" />
+    <MESSAGE value="7번문제" />
+    <MESSAGE value="8번문제" />
+    <MESSAGE value="9번문제" />
+    <MESSAGE value="10번문제" />
+    <MESSAGE value="코드카타" />
+    <option name="LAST_COMMIT_MESSAGE" value="코드카타" />
   </component>
 </project>
