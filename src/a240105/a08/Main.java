@@ -17,7 +17,6 @@ angle은 정수입니다.
 public class Main {
     public static void main(String[] args) {
         int angle = (int) (Math.random()*179) +1;
-
         int answer = 0;
         if(angle > 0 && angle < 90){
             answer = 1;
