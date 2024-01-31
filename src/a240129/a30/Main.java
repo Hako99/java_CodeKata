@@ -16,7 +16,7 @@ public class Main {
         for(int i = 0; i<a; i++){
             int b = (int) (Math.random() *25 )+97;
             c = (char) b;
-            s = s +c;
+            s = s + c;
         }
         System.out.println("랜덤 문자열");
         System.out.println(s);
